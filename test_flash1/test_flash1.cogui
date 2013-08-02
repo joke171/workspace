@@ -27,7 +27,7 @@
 </editorArea>
 <editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/CooCox/CoIDE/workspace/test_flash1/main.c" title="main.c" tooltip="C:/CooCox/CoIDE/workspace/test_flash1/main.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/test_flash1/main.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1164" selectionTopPixel="4074"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8696" selectionTopPixel="2944"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_rcc.c" partName="stm32f4xx_rcc.c" path="C:/CooCox/CoIDE/workspace/test_flash1/cmsis_lib/source/stm32f4xx_rcc.c" title="stm32f4xx_rcc.c" tooltip="C:/CooCox/CoIDE/workspace/test_flash1/cmsis_lib/source/stm32f4xx_rcc.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/test_flash1/cmsis_lib/source/stm32f4xx_rcc.c"/>
